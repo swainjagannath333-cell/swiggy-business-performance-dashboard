@@ -68,7 +68,7 @@ ________________________________________
 •	Average customer rating remained stable at 3.75.
 ________________________________________
 ## 📷 Dashboard Preview
- dashboard.png
+ ![Dashboard Preview](screenshot/dashboard.png)
 
  *Executive Dashboard built using Power BI, SQL, and DAX*
 ________________________________________
